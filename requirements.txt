@@ -1,0 +1,4 @@
+langchain
+sentence_transformers
+streamlit
+ctransformers
